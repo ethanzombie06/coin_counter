@@ -1,0 +1,2 @@
+{'bags': 1, 'total': 20}
+[{'name': 'admin', 'accuracy': 0, 'correct_bags': 0, 'bags': 0}, {'name': 'admin\n', 'correct_bags': 1, 'accuracy': 100.0, 'bags': 1}]
